@@ -1,0 +1,5 @@
+1- Get Talon-ai-tools
+2- Get parrot working
+
+
+Helpful wiki site for integrations - https://talon.wiki/Integrations/essential-tools
